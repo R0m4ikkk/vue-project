@@ -40,7 +40,10 @@
             align-items: center;
             justify-content: center;
         }
-
+        img {
+            border-radius: 15px;
+            margin-bottom: 12px;
+        }
         .tech__card-name {
             font-size: 18px;
             color: #8A99A8;
